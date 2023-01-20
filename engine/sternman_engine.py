@@ -1,6 +1,6 @@
 from abc import ABC
 
-from car import Car
+from Car import Car
 
 
 class SternmanEngine(Car, ABC):
